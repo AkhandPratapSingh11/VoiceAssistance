@@ -33,3 +33,13 @@ Voice Assistance is an interactive AI-powered chatbot that enables seamless voic
 git clone https://github.com/AkhandPratapSingh11/VoiceAssistance.git
 cd VoiceAssistance
 
+2. Install the requirements
+pip install -r requirements.txt
+
+3. add a .env file
+OPENAI_API_KEY = "your open ai api key"
+
+4. Open the terminal
+streamlit run app.py
+
+
