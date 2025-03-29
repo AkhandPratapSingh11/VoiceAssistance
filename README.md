@@ -2,6 +2,10 @@
 
 This is a voice-enabled chatbot powered by OpenAI's GPT-3.5-turbo and Whisper models, built using Streamlit. Users can interact with the chatbot using both voice and text, and the chatbot responds with both text and generated speech.
 
+## 🚀 Live Demo  
+[Click here to try the app!](https://voiceassistance1.streamlit.app/)
+
+
 ## 🚀 Features
 - **Conversational AI**: Uses OpenAI's GPT-3.5-turbo for generating responses.
 - **Speech-to-Text**: Converts user voice input into text using OpenAI's Whisper model.
